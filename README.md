@@ -1,2 +1,3 @@
 # hello-world
-... time-honored tradition in computer programming
+It's a time-honored tradition in computer programming to do a "hello-world" project first.
+So there you are ...
