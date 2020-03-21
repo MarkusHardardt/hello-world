@@ -4,6 +4,7 @@ this is line 3
 this is line 4
 this is line 5
 this is line 6
+inserted line 6.1 (branch1)
 this is line 7
 this is line 8
 this is line 9
@@ -23,6 +24,7 @@ this is line 21
 this is line 22
 this is line 23
 this is line 24
+corrected to line 24.1 (master)
 this is line 25
 this is line 26
 this is line 27
