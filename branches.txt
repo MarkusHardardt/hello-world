@@ -23,7 +23,7 @@ this is line 21
 this is line 22
 this is line 23
 this is line 24
-inserted line 14.1 (master)
+corrected to line 24.1 (master)
 this is line 25
 this is line 26
 this is line 27
