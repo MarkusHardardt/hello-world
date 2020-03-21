@@ -12,6 +12,7 @@ this is line 11
 this is line 12
 this is line 13
 this is line 14
+switched to branch1 and inserted line 14.1
 this is line 15
 this is line 16
 this is line 17
