@@ -1,4 +1,1 @@
-inserted in master
-inserted in branch1
-inserted in master
-inserted in master
+changed all in master
